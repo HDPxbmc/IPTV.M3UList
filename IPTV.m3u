@@ -296,6 +296,10 @@ http://streamup.global.ssl.fastly.net/app/mirror582sts-channel/chunklist.m3u8
 http://210.200.79.26:1935/live/ustvc_sp.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="台湾新闻",非凡新闻
 http://210.200.79.26:1935/live/ustvn_sp.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="电视台", 凤凰卫视-资讯HD
+http://111.20.115.242/live/stream7.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="电视台", 凤凰卫视-中文HD
+http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
 #EXTINF:-1 group-title="中国直播",江苏卫视
 http://121.31.20.137:8112/itv/jsws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuSiQtnu9hojdwWKo0sPd%2BXp27NTWtJ5K67jXi9uid6Gk
 #EXTINF:-1 group-title="中国直播",江苏国际
