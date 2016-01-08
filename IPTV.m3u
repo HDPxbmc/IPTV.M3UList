@@ -954,10 +954,6 @@ http://live.gslb.letv.com/gslb?stream_id=lb_atm_1300&tag=live&ext=m3u8&sign=live
 http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zpw_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
 #EXTINF:-1 group-title="港澳",星空电视
 rtmp://flash.supersky.ch/live/supersky/livestream
-#EXTINF:-1 group-title="港澳", 凤凰卫视-资讯HD
-http://111.20.115.242/live/stream7.m3u8
-#EXTINF:-1 group-title="港澳", 凤凰卫视-中文HD
-http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
 #EXTINF:-1 group-title="港澳",香港卫视
 rtmp://live.hkstv.hk.lxdns.com/live/hks
 #EXTINF:-1 group-title="港澳",UNb亚洲联合卫视
